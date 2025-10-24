@@ -6,6 +6,11 @@ A sleek, fully functional To-Do application built using **React** and **TypeScri
 ```bash
 
 npx create-react-app react-ts --template typescript
+
+npm install react-icons@4.11.0
+
+npm install @hello-pangea/dnd
+
 ```
 
 ---
