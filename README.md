@@ -30,28 +30,19 @@ Check the app live here: [Taskify Live](https://taskify-typescript.netlify.app/)
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── components/
-│ ├── InputField.tsx
-│ ├── TodoList.tsx
-│ └── SingleTodo.tsx
-├── model.ts
-├── App.tsx
-└── index.tsx
-
 
 ## ⚡ Getting Started
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/taskify-react-ts.git
-
+``
 2. Install dependencies:
-
+```bash
 npm install
+``
 
 3. Run the development server:
-
+```bash
 npm start
+``
