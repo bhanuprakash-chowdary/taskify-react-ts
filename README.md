@@ -2,6 +2,12 @@
 
 A sleek, fully functional To-Do application built using **React** and **TypeScript**. This project demonstrates React Hooks, TypeScript type safety, props handling, and drag-and-drop functionality.
 
+
+```bash
+
+npx create-react-app react-ts --template typescript
+```
+
 ---
 
 ## 🔧 Features
